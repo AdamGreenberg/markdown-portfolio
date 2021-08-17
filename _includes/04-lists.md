@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# Some things I like:
+
+1. Food
+2. Sleep
+
+### Other things I like:
+
+- music
+- time
+* food
